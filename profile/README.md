@@ -10,8 +10,8 @@ finds it again and shows why it decided what it did.
 | Project | What it is | Status |
 | --- | --- | --- |
 | [lekto](https://github.com/lektohq/lekto) | The server: REST API, web UI, workers and MCP server; image `ghcr.io/lektohq/lekto` | beta |
-| pylekto | Async Python client for the Lekto REST API | coming soon |
-| lekto-homeassistant | Home Assistant integration | coming soon |
+| [pylekto](https://github.com/lektohq/pylekto) | Async Python client for the Lekto REST API; `pip install pylekto` | beta |
+| [lekto-homeassistant](https://github.com/lektohq/lekto-homeassistant) | Home Assistant integration, installed as a custom repository | beta |
 
 ### What Lekto stands for
 
